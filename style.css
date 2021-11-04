@@ -269,3 +269,13 @@ button svg {
     padding: 1em 2em;
   }
 }
+
+
+/* footer */
+
+footer {
+  margin-top: auto;
+  padding: 12px;
+  text-align: center;
+  color: black;
+}
